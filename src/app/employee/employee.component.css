@@ -1,0 +1,65 @@
+button.btn.btn-lg.btn-warning.text-white.float-right {
+  margin-right: 45px;
+  /* height: 46px; */
+  padding: 5px 0px;
+}
+button.btn.btn-lg.btn-warning.text-white.float-right {
+  margin-right: 45px;
+  padding: 5px 19px;
+  margin-bottom: 43px;
+  border-radius: 4px;
+  background-color: #ffb606;
+  margin-top: 20px;
+}
+span.doctype {
+  position: relative;
+
+  color: #02395a;
+  font-weight: 900;
+  font-size: 21px;
+  text-transform: uppercase;
+}
+.container-fluid {
+  width: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 60px;
+}
+.container {
+  /* margin-top: 53px; */
+  padding-top: 63px;
+}
+nav.navbar.navbar-dark.bg-aquamarine {
+  background-color: antiquewhite;
+}
+.form-group {
+  margin-bottom: 1rem;
+  /* margin-left: 0px; */
+  width: 460px;
+}
+button.btn.btn-info.search {
+  margin-top: -38px;
+  float: right;
+  /* margin-left: -3px; */
+  /* padding-right: 7px; */
+  margin-right: 1191px;
+}
+.search {
+  margin-left: 18px;
+  margin-top: 16px;
+  /* padding-top: 9px; */
+}
+@media (min-width: 1200px){
+.container {
+    max-width: 1550px;
+}
+}
+
+input#search-box-round {
+  margin-top: -80px;
+}
+table{
+  overflow: scroll;
+}
